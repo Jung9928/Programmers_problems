@@ -2,7 +2,7 @@
 ```JAVA
 ```
 
-## C=+ 풀이
+## C++ 풀이
 ```C++
 #include <string>
 #include <vector>
